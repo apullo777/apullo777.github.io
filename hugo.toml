@@ -1,0 +1,21 @@
+baseURL = "https://apullo777.github.io/"
+languageCode = "en-us"
+title = "Peter Chang"
+theme = "hugo-bearblog"
+
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[permalinks]
+  blog = "/blog/:slug/"
+  tags = "/blog/tags/:slug"
+
+[params]
+  description = "Notes on open source, systems, Kubernetes localization, and AI-era workflow automation."
+  author = "Peter Chang"
+  title = "Peter Chang"
+
+[markup.goldmark.renderer]
+  unsafe = true
