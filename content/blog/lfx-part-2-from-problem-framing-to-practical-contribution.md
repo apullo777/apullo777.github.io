@@ -1,7 +1,6 @@
 ---
 title: "LFX: From Problem Framing to Practical Contribution"
 date: 2026-05-19
-draft: true
 tags: ["kubernetes", "sig-docs", "localization", "open-source", "lfx", "ai"]
 ---
 

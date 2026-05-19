@@ -1,7 +1,6 @@
 ---
 title: "Finding My Way into Kubernetes zh-tw Localization"
 date: 2026-05-16
-draft: true
 tags: ["kubernetes", "sig-docs", "localization", "open-source", "lfx"]
 ---
 

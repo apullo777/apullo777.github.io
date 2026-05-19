@@ -1,7 +1,6 @@
 ---
 title: "LFX: From Ambiguity to Problem Framing"
 date: 2026-05-18
-draft: true
 tags: ["kubernetes", "sig-docs", "localization", "open-source", "lfx", "ai"]
 ---
 
